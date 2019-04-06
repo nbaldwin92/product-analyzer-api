@@ -31,6 +31,9 @@ app.get('/api/scraper', async (req, res) => {
 
   res.send(score.toString());
 
+  res.set("Connection", "close");
+
+
   // console.log(JSON.stringify(scraper));
 
   // res.send(safetyRating);
