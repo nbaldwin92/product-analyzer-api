@@ -1,5 +1,4 @@
 /* eslint-disable no-use-before-define */
-
 const Nightmare = require('nightmare');
 const cheerio = require('cheerio');
 // Seller Feedback
