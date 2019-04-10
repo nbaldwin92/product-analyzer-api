@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oscarmorrison/nightmare-heroku.git"
+    "url": "git+https://github.com/nbaldwin92/product-analyzer-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oscarmorrison/nightmare-heroku"
+    "url": "https://github.com/nbaldwin92/product-analyzer-api"
   },
-  "homepage": "https://github.com/oscarmorrison/nightmare-heroku",
+  "homepage": "https://github.com/nbaldwin92/product-analyzer-api",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "electron": "^1.6.10",
